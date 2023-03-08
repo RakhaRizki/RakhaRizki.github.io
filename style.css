@@ -260,15 +260,15 @@
  }
 
  .html-bar {
-   width: 91%;
+   width: 90%;
  }
 
  .css-bar {
-   width: 84%;
+   width: 85%;
  }
 
  .js-bar {
-   width: 70%;
+   width: 15%;
  }
 
  .figma-bar {
@@ -277,6 +277,18 @@
 
  .bootstrap-bar {
   width: 35%;
+ }
+
+ .PHP-bar {
+  width: 65%;
+ }
+
+ .laravel-bar {
+  width: 25%;
+ }
+
+ .mysql-bar {
+  width: 60%;
  }
 
  .services-content {
