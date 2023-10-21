@@ -10,11 +10,13 @@
   font-family: "Poppins", sans-serif;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
-
-
 
 :root {
   --main-color: #f75023;
